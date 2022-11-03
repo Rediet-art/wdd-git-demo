@@ -1,0 +1,45 @@
+body{
+	background-color: gray;
+	background-image: url("flower.jpg");
+}
+
+
+.header{
+	height:30px;
+	width:100%;
+	background-color: olive;
+	margin-left:200px;
+}
+.side{
+	height:200px;
+	width:150px;
+	background-color:#b3ffff;
+	padding-top: 50px;
+}
+.main{
+	height:200px;
+	width:100%;
+	background-color: red;
+	margin-left:100px;
+}
+
+.img{
+	height:100px;
+	width:100px;
+}
+.sidenav{
+	color:red;
+	height:100%;
+	width:50px;
+	position:relative;
+	top:200px;
+	left:0;
+	background-color:gray;
+	padding:50px;
+}
+.footer{
+	height:15px;
+	width:100%;
+	background-color:purple;
+	margin-left:200px;
+}
